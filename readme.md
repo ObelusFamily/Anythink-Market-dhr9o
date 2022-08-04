@@ -15,4 +15,4 @@ When implementing a new feature or fixing a bug, please create a new pull reques
     b. `docker-compose -v`
 3. Run `docker-compose up` from project root directory
 4. Test connection by pointing your browser to http://localhost:3000/api/ping
-5. check the frontend and make sure it’s connected to the backend. If everything is working properly, you’ll be able to create a new user on http://localhost:3001/register
+5. check the frontend and make sure it’s connected to the backend. If everything is working properly, you’ll be able to create a new user on http://localhost:3001/register 
